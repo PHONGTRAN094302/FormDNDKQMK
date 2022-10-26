@@ -1,0 +1,15 @@
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\bin\Debug\FormDNDKQMK.exe.config
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\bin\Debug\FormDNDKQMK.exe
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\bin\Debug\FormDNDKQMK.pdb
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.csprojAssemblyReference.cache
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.DangKy.resources
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.Form1.resources
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.Home.resources
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.Properties.Resources.resources
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.QuenMatKhau.resources
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.csproj.GenerateResource.cache
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.csproj.CoreCompileInputs.cache
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.exe
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\obj\Debug\FormDNDKQMK.pdb
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\bin\Debug\Database1.mdf
+C:\Users\os\laptrinhnet\repos\FormDNDKQMK\FormDNDKQMK\bin\Debug\Database1_log.ldf
